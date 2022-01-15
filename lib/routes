@@ -1,0 +1,49 @@
+
+
+// IN MAIN DART 
+// class MyApp extends StatelessWidget {
+//   AuthController authController = Get.put<AuthController>(AuthController());
+//   @override
+//   Widget build(BuildContext context) {
+//     return GetMaterialApp(
+//       title: 'Todo App with Get Package',
+//       defaultTransition: Transition.rightToLeft,
+//       theme: ThemeData(
+//         primarySwatch: Colors.blue,
+//         visualDensity: VisualDensity.adaptivePlatformDensity,
+//       ),
+//       initialRoute: "/splashscreen",
+//       getPages: AppRoutes.routes,
+//     );
+//   }
+// }
+
+
+// class AppRoutes {
+//   static final routes = [
+//     GetPage(
+//       name: '/splashscreen',
+//       page: () => SplashScreen(),
+//     ),
+//     GetPage(
+//       name: '/',
+//       page: () => TodoList(),
+//     ),
+//     GetPage(
+//       name: '/login',
+//       page: () => LoginPage(),
+//     ),
+//     GetPage(
+//       name: '/register',
+//       page: () => RegisterPage(),
+//     ),
+//     GetPage(
+//       name: '/todos/:id/edit',
+//       page: () => EditTodo(),
+//     ),
+//     GetPage(
+//       name: '/add-todo',
+//       page: () => AddTodo(),
+//     ),
+//   ];
+// }

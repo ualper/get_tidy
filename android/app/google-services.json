@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521446718980",
+    "firebase_url": "https://get-tidy-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "get-tidy",
+    "storage_bucket": "get-tidy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521446718980:android:a858edf0e14a69273c3f51",
+        "android_client_info": {
+          "package_name": "com.codebastion.gettidy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521446718980-864end0gstasaq7ofhn66p75julqhntn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAi_oJlxzco6LK4JMx7KXhY8YR760yZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521446718980-864end0gstasaq7ofhn66p75julqhntn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
